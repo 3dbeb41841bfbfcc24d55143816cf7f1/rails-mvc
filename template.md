@@ -1,37 +1,6 @@
-<!--
-This file is auto-generated from a 'template.md'
-file using the 'md-process' script.
-Therefore *DO NOT* edit this file directly!
-Instead edit 'template.md' and then run 'md-process'.
--->
-
 # Intro to Rails + MVC + Asset Pipeline
 
-## Table of Contents
-
-* [Learning Objectives](#learning-objectives)
-* [Explaining Rails](#explaining-rails)
-* [Rails Philosophy](#rails-philosophy)
-  * [Separation of Concerns](#separation-of-concerns)
-  * [Organizational Principles](#organizational-principles)
-* [MVC](#mvc)
-* [Railstaurant Metaphore](#railstaurant-metaphore)
-* [Installation](#installation)
-* [Project Setup](#project-setup)
-  * [How to create a rails project](#how-to-create-a-rails-project)
-  * [Bundler](#bundler)
-  * [Start a server](#start-a-server)
-* [Experiment](#experiment)
-* [Create a controller and view](#create-a-controller-and-view)
-* [Rails File Structure](#rails-file-structure)
-* [Asset Pipeline](#asset-pipeline)
-* [Routing](#routing)
-* [Rendering templates](#rendering-templates)
-* [Template file names](#template-file-names)
-* [Instance variables for data into our views](#instance-variables-for-data-into-our-views)
-* [Making our app look even better using bootswatch](#making-our-app-look-even-better-using-bootswatch)
-    * [Getting Started](#getting-started)
-* [Homework](#homework)
+{{ TOC }}
 
 ## Learning Objectives
 By the end of this lecture you should be able to...
